@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+wifi_security_report_*.txt
+.DS_Store
